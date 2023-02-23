@@ -237,3 +237,10 @@ h2 {
 .paused {
     animation-play-state: paused;
 }
+
+button{
+    width: 40%;
+    translate: 70%;
+    border: #f1f42a solid;
+    background-color: aqua;
+}
